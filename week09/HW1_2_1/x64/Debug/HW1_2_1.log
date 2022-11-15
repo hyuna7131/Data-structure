@@ -1,0 +1,8 @@
+﻿  HW1_2_1.c
+C:\Users\user\Desktop\동덕여대2022-2학기\컴퓨터프로그래밍\week09\HW1_2_1\HW1_2_1.c(50,7): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\동덕여대2022-2학기\컴퓨터프로그래밍\week09\HW1_2_1\HW1_2_1.c(75,16): warning C4133: '함수': 'StackNode *'과(와) 'LinkedStackType *' 사이의 형식이 호환되지 않습니다.
+C:\Users\user\Desktop\동덕여대2022-2학기\컴퓨터프로그래밍\week09\HW1_2_1\HW1_2_1.c(73,1): warning C4133: '초기화 중': 'LinkedStackType *'과(와) 'StackNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\user\Desktop\동덕여대2022-2학기\컴퓨터프로그래밍\week09\HW1_2_1\HW1_2_1.c(103,2): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\user\Desktop\동덕여대2022-2학기\컴퓨터프로그래밍\week09\HW1_2_1\HW1_2_1.c(59): warning C4715: 'pop': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\user\Desktop\동덕여대2022-2학기\컴퓨터프로그래밍\week09\HW1_2_1\HW1_2_1.c(70): warning C4715: 'peek': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  HW1_2_1.vcxproj -> C:\Users\user\Desktop\동덕여대2022-2학기\컴퓨터프로그래밍\week09\x64\Debug\HW1_2_1.exe

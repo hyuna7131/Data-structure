@@ -1,0 +1,28 @@
+﻿  HW3_2.c
+C:\Users\user\Desktop\동덕여대2022-2학기\자료구조\HW3\HW3_2\HW3_2.c(21,16): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\user\Desktop\동덕여대2022-2학기\자료구조\HW3\HW3_2\HW3_2.c(31,15): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\user\Desktop\동덕여대2022-2학기\자료구조\HW3\HW3_2\HW3_2.c(40,22): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\user\Desktop\동덕여대2022-2학기\자료구조\HW3\HW3_2\HW3_2.c(48,21): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\user\Desktop\동덕여대2022-2학기\자료구조\HW3\HW3_2\HW3_2.c(68,21): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\user\Desktop\동덕여대2022-2학기\자료구조\HW3\HW3_2\HW3_2.c(57,1): warning C4133: '초기화 중': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\user\Desktop\동덕여대2022-2학기\자료구조\HW3\HW3_2\HW3_2.c(79,49): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\user\Desktop\동덕여대2022-2학기\자료구조\HW3\HW3_2\HW3_2.c(87,39): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\user\Desktop\동덕여대2022-2학기\자료구조\HW3\HW3_2\HW3_2.c(100,20): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\user\Desktop\동덕여대2022-2학기\자료구조\HW3\HW3_2\HW3_2.c(112,20): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\user\Desktop\동덕여대2022-2학기\자료구조\HW3\HW3_2\HW3_2.c(123,39): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\user\Desktop\동덕여대2022-2학기\자료구조\HW3\HW3_2\HW3_2.c(128,13): warning C4047: 'return': 'element'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\user\Desktop\동덕여대2022-2학기\자료구조\HW3\HW3_2\HW3_2.c(141,20): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\user\Desktop\동덕여대2022-2학기\자료구조\HW3\HW3_2\HW3_2.c(147,21): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\user\Desktop\동덕여대2022-2학기\자료구조\HW3\HW3_2\HW3_2.c(158,21): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\user\Desktop\동덕여대2022-2학기\자료구조\HW3\HW3_2\HW3_2.c(134,1): warning C4133: '초기화 중': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\user\Desktop\동덕여대2022-2학기\자료구조\HW3\HW3_2\HW3_2.c(177,17): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\user\Desktop\동덕여대2022-2학기\자료구조\HW3\HW3_2\HW3_2.c(184,20): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\user\Desktop\동덕여대2022-2학기\자료구조\HW3\HW3_2\HW3_2.c(185,17): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\user\Desktop\동덕여대2022-2학기\자료구조\HW3\HW3_2\HW3_2.c(194,18): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\user\Desktop\동덕여대2022-2학기\자료구조\HW3\HW3_2\HW3_2.c(196,19): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\user\Desktop\동덕여대2022-2학기\자료구조\HW3\HW3_2\HW3_2.c(214,21): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\user\Desktop\동덕여대2022-2학기\자료구조\HW3\HW3_2\HW3_2.c(215,17): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\user\Desktop\동덕여대2022-2학기\자료구조\HW3\HW3_2\HW3_2.c(229,56): warning C4047: '=': 'ListNode *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\user\Desktop\동덕여대2022-2학기\자료구조\HW3\HW3_2\HW3_2.c(243,15): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\user\Desktop\동덕여대2022-2학기\자료구조\HW3\HW3_2\HW3_2.c(244,20): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+  HW3_2.vcxproj -> C:\Users\user\Desktop\동덕여대2022-2학기\자료구조\HW3\x64\Debug\HW3_2.exe
